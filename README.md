@@ -18,5 +18,5 @@ Choose one of the following options:
 2. Clone the git repo — 'git clone https://github.com/tshenolo/HTML5-Bootstrap-Boilerplate.git'
 
 ## License
-- MIT license for [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate/blob/master/LICENSE.md)
+- MIT License for [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate/blob/master/LICENSE.md)
 - Apache License for [Twitter Bootstrap](https://github.com/twitter/bootstrap/blob/master/LICENSE)
